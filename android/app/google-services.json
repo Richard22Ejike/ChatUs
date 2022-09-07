@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "535979793677",
+    "project_id": "chatup-77988",
+    "storage_bucket": "chatup-77988.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535979793677:android:edccbb0f4343ade8296444",
+        "android_client_info": {
+          "package_name": "com.example.chat_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535979793677-545ucj9ira68ubh47tmrnoir32q7q0df.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chat_application",
+            "certificate_hash": "fb6d263a3e85f4cb002af7235762dfe0959577ac"
+          }
+        },
+        {
+          "client_id": "535979793677-3qrbm6iuehe8sps51aq76kv1pk50h48b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz5JSv8rAoiugJg7BSpeNG51whMT9GgLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535979793677-3qrbm6iuehe8sps51aq76kv1pk50h48b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "535979793677-de09p0kmunbuejdr6iuthcj0ke4l9riv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatus"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535979793677:android:493deffdab6e8590296444",
+        "android_client_info": {
+          "package_name": "com.example.chatus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535979793677-3kgrirsi3afq0rt5lqvlo5uh47klvgq4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatus",
+            "certificate_hash": "fb6d263a3e85f4cb002af7235762dfe0959577ac"
+          }
+        },
+        {
+          "client_id": "535979793677-3qrbm6iuehe8sps51aq76kv1pk50h48b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz5JSv8rAoiugJg7BSpeNG51whMT9GgLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535979793677-3qrbm6iuehe8sps51aq76kv1pk50h48b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "535979793677-de09p0kmunbuejdr6iuthcj0ke4l9riv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatus"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
